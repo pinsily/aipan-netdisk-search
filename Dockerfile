@@ -1,6 +1,6 @@
 FROM node:18-alpine
 
-LABEL authors="Lei"
+LABEL authors="pinsily"
 
 WORKDIR /app
 

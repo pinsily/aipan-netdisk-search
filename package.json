@@ -42,5 +42,6 @@
   },
   "overrides": {
     "vue": "latest"
-  }
+  },
+  "__npminstall_done": false
 }
